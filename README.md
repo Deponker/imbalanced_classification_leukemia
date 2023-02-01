@@ -27,6 +27,9 @@ Figure: We have presented classified and misclassified samples and their corresp
 }
   ```
 
+## DOI
+https://doi.org/10.1016/j.compbiomed.2022.106372
+
 ## Requirments
 This work requirs
 - Python:     3.8.1
@@ -43,4 +46,4 @@ We report the best scores from our implemented models
 ![Results of best models](media/results.png)
 
 ## License
-MIT
+Distributed under the MIT License.
