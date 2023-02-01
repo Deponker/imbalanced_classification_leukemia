@@ -11,8 +11,21 @@ Leukemia is a cancer of the body's blood-forming tissues, including the bone mar
 <img src="media/New Project.png" width="">
 Figure: We have presented classified and misclassified samples and their corresponding superimposed feature maps from best models to input images.
 
-## Citation
+## Published Paper Link
+[Quantifying imbalanced classification methods for leukemia detection](https://www.sciencedirect.com/science/article/abs/pii/S0010482522010800)
 
+## Citation
+  ```sh
+ @article{depto2023quantifying,
+  title={Quantifying imbalanced classification methods for leukemia detection},
+  author={Depto, Deponker Sarker and Rizvee, Md Mashfiq and Rahman, Aimon and Zunair, Hasib and Rahman, M Sohel and Mahdy, MRC},
+  journal={Computers in Biology and Medicine},
+  volume={152},
+  pages={106372},
+  year={2023},
+  publisher={Elsevier}
+}
+  ```
 
 ## Requirments
 This work requirs
